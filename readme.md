@@ -1,4 +1,4 @@
-# Learn React: React Router Pt1 (Basics)
+# Learn React: React Router v5 Pt1 (Basics)
 
 ##### Course:
 
@@ -6,5 +6,5 @@
 
 ##### Application Scope:
 
-- S20.1: React Router Pt1 (Basics)
+- S20.1: React Router v5 Pt1 (Basics)
 - Topics discussed: React Router v5, Route, BrowserRouter, Link, NavLink, useParams, Switch, exact, Nested Routes, Redirect
